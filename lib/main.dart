@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         title: 'Welcome to Flutter',
         home: Scaffold(
           // Top bar
-          appBar: AppBar(),
+          appBar: CustomAppBar(),
           // /Top bar
           
           // Menu
